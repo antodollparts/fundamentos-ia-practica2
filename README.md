@@ -10,7 +10,7 @@ Prototipo interactivo en Python (`.ipynb`) para evaluar y comparar estrategias d
 
 * **Antonella** - [@antodollparts](https://github.com/antodollparts/)
 * **Amerika** - [@Amerikita](https://github.com/Amerikita)
-* **Nombre 3** - [@usuario3](https://github.com/usuario3)
+* **Victor** - [@usuario3](https://github.com/victor332-af)
 
 ---
 
