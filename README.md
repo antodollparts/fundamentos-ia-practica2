@@ -8,9 +8,9 @@ Prototipo interactivo en Python (`.ipynb`) para evaluar y comparar estrategias d
 
 ## 👥 Integrantes del Equipo
 
-* **Antonella** - [@antodollparts](https://github.com/antodollparts/)
-* **Amerika** - [@Amerikita](https://github.com/Amerikita)
-* **Victor** - [@usuario3](https://github.com/victor332-af)
+* **Antonella Junco** - [@antodollparts](https://github.com/antodollparts/)
+* **Amerika Carbajal** - [@Amerikita](https://github.com/Amerikita)
+* **Victor Canché** - [@usuario3](https://github.com/victor332-af)
 
 ---
 
