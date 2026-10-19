@@ -12,6 +12,7 @@ Prototipo interactivo en Python (`.ipynb`) para evaluar y comparar estrategias d
 * **Amerika Carbajal** - [@Amerikita](https://github.com/Amerikita)
 * **Victor Canché** - [@usuario3](https://github.com/victor332-af)
 * **Diego Alexander** - [@DiegoMarin025](https://github.com/DiegoMarin025)
+* **Leobardo Mex** -[@YondaimeMex](https://github.com/YondaimeMex)
 
 ---
 
